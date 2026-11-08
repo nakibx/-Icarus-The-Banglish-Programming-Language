@@ -1,1 +1,2 @@
 # -Icarus-The-Banglish-Programming-Language
+This project seeks to develop a simple interpreter for a miniature programming language using Flex and Bison. The language supports features like variable declarations, arithmetic operations, control structures (such as if-else and loops), and basic input/output. It offers hands-on experience with essential compiler design concepts, including lexical analysis, syntax analysis, parsing, and symbol table handling
